@@ -73,7 +73,14 @@ h1 {
   border-right: 12px solid black;
 }
 
-iframe {
+.resume {
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
+  width: 40%;
+}
+
+.resume iframe {
   height: 850px;
   width: 670px;
 }
